@@ -11,5 +11,5 @@ Notes:
 * With modifications, can be used with WRF output (several others have already done so)
 * Comments that say "set by user" are specific to model output and desired trajectories
 
-![alt text](/uufs/chpc.utah.edu/common/home/u1013082/lake_effect/cm1/trajectories/trajectory_test_scripts/forward_trajectory_gokhan_2s_z05.png "Verification of Trajectories")
+![alt text](http://www.inscc.utah.edu/~u1013082/phd_plots/cm1/plots/forward_trajectory_gokhan_2s_z05.png "Verification of Trajectories")
 
