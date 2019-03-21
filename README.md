@@ -3,8 +3,8 @@ In recent years, Cloud Model 1 (CM1; http://www2.mmm.ucar.edu/people/bryan/cm1/)
 
 # Updates
 As of 3/21/2019 there are two versions of the code:
-1.**trajectories_CM1.ipynb** simply uses first order Runge-Kutta (Euler's method)
-2.**trajectories_CM1_2nd_order.ipynb** uses a second-order semi-implicit discretization in space and time. The method is described in depth in section 2.1 of Miltenberger et al. 2013 (https://www.geosci-model-dev.net/6/1989/2013/gmd-6-1989-2013.pdf) and is the generally accepted method for computing trajectories.
+* **trajectories_CM1.ipynb** simply uses first order Runge-Kutta (Euler's method)
+* **trajectories_CM1_2nd_order.ipynb** uses a second-order semi-implicit discretization in space and time. The method is described in depth in section 2.1 of Miltenberger et al. 2013 (https://www.geosci-model-dev.net/6/1989/2013/gmd-6-1989-2013.pdf) and is the generally accepted method for computing trajectories.
 
 
 Notes:
