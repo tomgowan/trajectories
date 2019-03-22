@@ -24,3 +24,6 @@ Trajectories computed with this code have been verified against trajectories com
 
 ![alt text](http://www.inscc.utah.edu/~u1013082/phd_plots/cm1/plots/forward_trajectory_gokhan_2s_z05.png "Verification of Trajectories")
 
+*Questions?*
+Email me at tom.gowan@gmail.com
+
